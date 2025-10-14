@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['tag_5fok_0',['tag_ok',['../proyecto__final_8ino.html#a59916b750dfacf63e42801b412351d3c',1,'proyecto_final.ino']]],
+  ['tarjetauid_1',['tarjetaUID',['../proyecto__final_8ino.html#a160b3420bdadc87358ea3aa8364590aa',1,'proyecto_final.ino']]],
+  ['taskbluelow_2',['taskBlueLow',['../proyecto__final_8ino.html#a8e71d3a1f0ad16ef8c870e745154e867',1,'proyecto_final.ino']]],
+  ['taskbuzzer_3',['taskBuzzer',['../proyecto__final_8ino.html#af53ef0e62c7532d072635f90d8576780',1,'proyecto_final.ino']]],
+  ['taskmonitor_4',['taskMonitor',['../proyecto__final_8ino.html#accef3c9403e5069e84a7095764043a2e',1,'proyecto_final.ino']]],
+  ['taskredalarm_5',['taskRedAlarm',['../proyecto__final_8ino.html#a98cee194a5de32d4b77ad12d281f11ec',1,'proyecto_final.ino']]],
+  ['taskredblock_6',['taskRedBlock',['../proyecto__final_8ino.html#a60503d9de4fff141aab250674dff458b',1,'proyecto_final.ino']]],
+  ['taskredhigh_7',['taskRedHigh',['../proyecto__final_8ino.html#aa9b78bcf9ff064845a1e61138074a961',1,'proyecto_final.ino']]],
+  ['taskstaypmvhigh_8',['taskStayPMVHigh',['../proyecto__final_8ino.html#a3587a82b8b234f019f475c964d2c0399',1,'proyecto_final.ino']]],
+  ['taskstaypmvlow_9',['taskStayPMVLow',['../proyecto__final_8ino.html#a9d80975dee9ddb4cbd5c2634d25ec3f3',1,'proyecto_final.ino']]],
+  ['taskwaittomonitor_10',['taskWaitToMonitor',['../proyecto__final_8ino.html#adccd366189a7ae3ee4b3bf7b069c36e4',1,'proyecto_final.ino']]],
+  ['temp_5falarma_5fhi_11',['TEMP_ALARMA_HI',['../proyecto__final_8ino.html#a5bd013558bc87fd2bdd23c53b93b1044',1,'proyecto_final.ino']]],
+  ['temp_5falarma_5flo_12',['TEMP_ALARMA_LO',['../proyecto__final_8ino.html#a926492179ad600e21e4eadde9cd696da',1,'proyecto_final.ino']]],
+  ['temperatura_13',['temperatura',['../proyecto__final_8ino.html#a080a822f0093973313bd644e517a5090ac7a9f233f4ddc43f91b455aeb62488b3',1,'proyecto_final.ino']]],
+  ['temperatura_5factual_14',['temperatura_actual',['../proyecto__final_8ino.html#ab9e5563b8716eb92f4572dc066912cf9',1,'proyecto_final.ino']]],
+  ['tgrid_15',['Tgrid',['../proyecto__final_8ino.html#ad9085a2b8dde7360b0de8c12bc467fae',1,'proyecto_final.ino']]],
+  ['tiempo_16',['tiempo',['../proyecto__final_8ino.html#a080a822f0093973313bd644e517a5090a6b1f1dab0396a4c5fbb001f902b4739d',1,'proyecto_final.ino']]]
+];
