@@ -24,6 +24,7 @@ según el nivel de confort térmico detectado:
 
 ## 📁 Estructura del proyecto
 /proyecto_final
+- InformeArquitecturaComputacional.docx → Informe del proyecto
 - proyecto_final.ino → Código completo del sistema
 - Doxyfile → Archivo de configuración para Doxygen
 - /doc/html/ → Documentación generada automáticamente
