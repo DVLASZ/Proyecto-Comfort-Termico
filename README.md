@@ -33,7 +33,6 @@ según el nivel de confort térmico detectado:
 ## 📘 Documentación del código
 La documentación completa se encuentra en la carpeta `/doc/html/`.
 Abre el archivo `index.html` directamente en tu navegador o visualízala desde GitHub Pages
-(si está activada para este repositorio).
 
 ## 🧠 Autor
 **Edward Esteban Dávila Salazar**
