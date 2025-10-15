@@ -32,7 +32,8 @@ según el nivel de confort térmico detectado:
 
 ## 📘 Documentación del código
 La documentación completa se encuentra en la carpeta `/doc/html/`.
-Abre el archivo `index.html` directamente en tu navegador
+bre el archivo `index.html` directamente en tu navegador o utiliza el siguiente enlace
+[https://proyecto-comfort-termico.vercel.app](https://proyecto-comfort-termico.vercel.app)
 
 ## 🧠 Autor
 **Edward Esteban Dávila Salazar**
